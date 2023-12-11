@@ -1,0 +1,124 @@
+.screen {
+  position: relative;
+  width: 1440px;
+  height: 1562px;
+  background-color: #ffffff;
+}
+
+.screen .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 671px;
+  top: 69px;
+  left: 0;
+  background-image: url(./img/photo.png);
+  background-size: 100% 100%;
+}
+
+.screen .about-trips {
+  position: absolute;
+  width: 517px;
+  top: 293px;
+  left: 565px;
+  -webkit-text-stroke: 1px #30abae;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 72px;
+  letter-spacing: 2.16px;
+  line-height: 80px;
+}
+
+.screen .h {
+  position: absolute;
+  top: 828px;
+  left: 506px;
+  font-family: "Playfair Display", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+}
+
+.screen .menu {
+  position: absolute;
+  width: 1440px;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.screen .overlap-group {
+  position: relative;
+  height: 31px;
+  top: 14px;
+}
+
+.screen .icons-web {
+  position: absolute;
+  width: 114px;
+  height: 25px;
+  top: 6px;
+  left: 1125px;
+}
+
+.screen .frame {
+  position: absolute;
+  width: 1440px;
+  height: 28px;
+  top: 0;
+  left: 0;
+}
+
+.screen .pages {
+  position: relative;
+  width: 406px;
+  height: 18px;
+  top: 10px;
+  left: 204px;
+}
+
+.screen .text-wrapper {
+  left: 0;
+  font-weight: 400;
+  position: absolute;
+  height: 18px;
+  top: 0;
+  font-family: "Open Sans", Helvetica;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.screen .div {
+  width: 51px;
+  left: 127px;
+  font-weight: 300;
+  position: absolute;
+  height: 18px;
+  top: 0;
+  font-family: "Open Sans", Helvetica;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.screen .text-wrapper-2 {
+  width: 184px;
+  left: 216px;
+  font-weight: 300;
+  position: absolute;
+  height: 18px;
+  top: 0;
+  font-family: "Open Sans", Helvetica;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
